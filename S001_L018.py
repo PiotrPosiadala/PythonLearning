@@ -1,3 +1,4 @@
+#FUNKCJA JAKO ARGUMENT FUNKCJI
 def double(x):
     return 2 *x
     
