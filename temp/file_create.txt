@@ -1,0 +1,2 @@
+Action FILE_CREATE executed on .\temp\dummy_file.txt on 2020-05-03 18:57:40
+Action FILE_CREATE executed on .\temp\dummy_file.txt on 2020-05-03 18:57:40
